@@ -1,10 +1,6 @@
 [
   {
     "role": "user",
-    "content": "hello"
-  },
-  {
-    "role": "assistant",
-    "content": "Could not reach OpenAI. Check your internet connection and try again."
+    "content": "hii"
   }
 ]
